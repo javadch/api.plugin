@@ -1,0 +1,13 @@
+plugins:
+  - name: account
+    label: Account
+    prefix: accounts
+    active: true
+  - name: product
+    label: Product
+    prefix: products
+    active: true
+  - name: admin
+    label: Admin
+    prefix: admin
+    active: false
